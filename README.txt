@@ -6,3 +6,4 @@ local commit
 remote commit
 user 1 commit
 user2 commit
+user22 commit
