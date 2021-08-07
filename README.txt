@@ -6,3 +6,4 @@ second commit
 local commit
 remote commit
 user 1 commit
+user2 commit
